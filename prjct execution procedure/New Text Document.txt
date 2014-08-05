@@ -1,0 +1,18 @@
+Execution Environment by Bundle
+
+In the table below, the "4.1 minimum execution environment" column indicates the minimum Java class library requirements of each bundle for the 4.1 release, where the value is one of:
+
+Entry	Meaning
+F1.0
+J2ME Foundation 1.0 - indicates that the bundle can only be run on Foundation 1.0 or greater. Note that with the exception of some MicroEdition IO classes, Foundation 1.0 is a subset of J2SE 1.3.
+F1.1
+J2ME Foundation 1.1 - indicates that the bundle can only be run on Foundation 1.1 or greater. Note that with the exception of some MicroEdition IO classes, Foundation 1.1 is a subset of J2SE 1.4.
+1.3
+J2SE 1.3 - indicates that the bundle can only be run on JSE 1.3 or greater.
+1.4
+J2SE 1.4 - indicates that the bundle can only be run on JSE 1.4 or greater.
+1.5
+Java SE 5 - indicates that the bundle can only be run on Java SE 5 or greater.
+1.6
+Java SE 6 - indicates that the bundle can only be run on Java SE 6 or greater.
+n/a	Unknown at the time of this revision.
